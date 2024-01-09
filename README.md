@@ -12,3 +12,4 @@ git checkout <COMMIT_ID_or_BRANCH_NAME>
 git branch
 
 ```
+git push origin master
