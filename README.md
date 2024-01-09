@@ -10,3 +10,4 @@ git clone
 git pull
 git push
 ```
+Changes by SLIM
