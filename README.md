@@ -7,9 +7,11 @@ git add <FILENAME>
 git commit -m "<COMMIT_MSG>"
 git push
 
+git push origin master
+
 git checkout -b "<BRANCH_NAME>"
 git checkout <COMMIT_ID_or_BRANCH_NAME>
 git branch
 
 ```
-git push origin master
+
