@@ -8,6 +8,11 @@ Install `git` on your machine
 ```sh
 git clone
 git pull
+
+git status
+git add <filename>
+git push <filename>
+
 git push
 ```
 Changes by SLIM
