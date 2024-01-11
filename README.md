@@ -12,7 +12,3 @@ git checkout <COMMIT_ID_or_BRANCH_NAME>
 git branch
 
 ```
-akb changes
-hhh akb
-goodnight all from akb
-new change
