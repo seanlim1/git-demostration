@@ -1,2 +1,0 @@
-main in a2.txt
-i am going a2 a2
