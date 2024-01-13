@@ -1,2 +1,0 @@
-main in a2.txt
-now in laptop
